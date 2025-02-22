@@ -1,4 +1,4 @@
-# Fake News 
+# Fake News Detection
 Fake news refers to false or misleading information presented as news, often
 created to influence public opinion or generate web traffic. The spread of fake
 news has become a significant concern, impacting societal trust and political
